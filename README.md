@@ -5,11 +5,11 @@ Slide the tiles, combine numbers, and reach the 2048 tile! Play online or locall
 
 ✨ Features
 Classic 2048 gameplay with smooth animations
-Arrow key controls for moving tiles
-Combine tiles with the same numbers
-Score counter to track your progress
-Responsive & mobile-friendly design
-Clean, modern styling for an attractive UI
+1.Arrow key controls for moving tiles
+2.Combine tiles with the same numbers
+3.Score counter to track your progress
+4.Responsive & mobile-friendly design
+5.Clean, modern styling for an attractive UI
 
 🌐 Live Demo
 
